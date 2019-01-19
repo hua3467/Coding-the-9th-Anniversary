@@ -15,10 +15,6 @@ console.log(zz("Z"));
 console.log("\n\n");
 
 
-
-    
-
-
 function zz(char){
     var str = "";
     for(var i = 0; i < 52; i++){
@@ -145,8 +141,6 @@ function zz10(char, fill){
     return str;
 }
 
-
-
 function zz11_19(char, fill){
 
     var str = "";
@@ -215,7 +209,7 @@ function zz11_19(char, fill){
             str += "ZZZZZZZZZZ @===========================@ ZZZZZZZZZZZ\n"
             + "ZZZZZZZZZZZ||    ZHUODAN & ZHENHUA    ||ZZZZZZZZZZZZ\n"
             + "ZZZZZZZZZZZ||     9TH ANNIVERSARY     ||ZZZZZZZZZZZZ\n"
-            + "ZZZZZZZZZZZ|| 2009/12/14 - 2018/12/24 ||ZZZZZZZZZZZZ\n"
+            + "ZZZZZZZZZZZ|| 2009/12/24 - 2018/12/24 ||ZZZZZZZZZZZZ\n"
             + "ZZZZZZZZZZZ||     [  FARGO, USA ]     ||ZZZZZZZZZZZZ\n"
             + "ZZZZZZZZZZ @===========================@ ZZZZZZZZZZZ";
         }
